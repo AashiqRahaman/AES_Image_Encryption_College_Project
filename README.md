@@ -1,0 +1,8 @@
+pydicom
+imageio
+pycryptodome
+numpy
+
+
+
+.\ve_img\Scripts\Activate.ps1     #to  turn on the virtual env of python
