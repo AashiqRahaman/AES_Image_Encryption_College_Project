@@ -1,3 +1,5 @@
+python 3.*
+
 pydicom
 imageio
 pycryptodome
